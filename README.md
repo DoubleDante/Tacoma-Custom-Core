@@ -9,20 +9,13 @@
 
 Все сборки можно загрузить в [разделе релизов](https://github.com/DoubleDante/Tacoma/releases)
 
-## API
-
-У Tacoma пока нет API. поэтому не нужно получать репозиторий maven и т. д.
-
-
-
- * Maven Repo (for paper-api):
+ * Maven (paper-api):
 ```xml
 <repository>
     <id>papermc</id>
     <url>https://papermc.io/repo/repository/maven-public/</url>
 </repository>
 ```
- * Artifact Information:
 ```xml
 <dependency>
     <groupId>com.destroystokyo.paper</groupId>
@@ -30,3 +23,7 @@
     <version>1.13.2-R0.1-SNAPSHOT</version>
     <scope>provided</scope>
  </dependency>
+
+## API
+
+У Tacoma пока нет API. поэтому не нужно получать репозиторий maven и т. д.
