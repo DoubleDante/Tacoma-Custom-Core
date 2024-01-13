@@ -27,6 +27,6 @@
 <dependency>
     <groupId>com.destroystokyo.paper</groupId>
     <artifactId>paper-api</artifactId>
-    <version>1.13.2-R0.1-SNAPSHOT</version>
+    <version>1.18.2-R0.1-SNAPSHOT</version>
     <scope>provided</scope>
  </dependency>
