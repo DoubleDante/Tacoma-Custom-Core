@@ -9,6 +9,13 @@
 
 Все сборки можно загрузить в [разделе релизов](https://github.com/DoubleDante/Tacoma/releases)
 
+
+## API
+
+У Tacoma пока нет API. поэтому не нужно получать репозиторий maven и т. д.
+
+
+
  * Maven (paper-api):
 ```xml
 <repository>
@@ -23,7 +30,3 @@
     <version>1.13.2-R0.1-SNAPSHOT</version>
     <scope>provided</scope>
  </dependency>
-
-## API
-
-У Tacoma пока нет API. поэтому не нужно получать репозиторий maven и т. д.
