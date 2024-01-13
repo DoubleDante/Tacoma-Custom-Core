@@ -16,7 +16,7 @@
 
 
 
- * Maven (paper-api):
+ * (paper-api):
 ```xml
 <repository>
     <id>papermc</id>
